@@ -7,6 +7,12 @@ A Closer Look At Handling User Input
 - Showing On-Screen Validation Errors
 - Form Submission & Resetting
 
+Connecting a Backend
+
+Sending HTTP Requests From The App To A Backend
+- Why Would You Add A Backend?
+- Sending HTTP Requests From Flutter Apps To Backends
+
 Section11 : [Flutter & Dart - The Complete Guide：2023 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
 ## Demo
